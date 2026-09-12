@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello from MAIN and FEATURE!");
+        Console.WriteLine("Hello from MAIN!");
         GreetUser("User");
     }
 
